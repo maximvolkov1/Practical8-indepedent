@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Practical8-independent</string>
+    <string name="size_text_16">16 шрифт</string>
+    <string name="size_text_24">24-ый шрифт</string>
+    <string name="size_text_32">32-ой шрифт</string>
+</resources>
